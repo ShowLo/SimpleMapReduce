@@ -15,8 +15,10 @@ A simple MapReduce framework
 
 ## 示例
 MapReduce执行过程：
+
 ![Image](MR1.png)
 ![Image](MR2.png)
 
 MapReduce执行结果：
+
 ![Image](MRResult.png)
